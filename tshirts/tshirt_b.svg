@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="ffda-logo.svg">
+   sodipodi:docname="tshirt_b.svg">
   <defs
      id="defs4">
     <font
@@ -162,8 +162,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="605.82581"
-     inkscape:cy="41.878179"
+     inkscape:cx="599.24527"
+     inkscape:cy="75.481899"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
@@ -171,9 +171,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1596"
-     inkscape:window-height="857"
-     inkscape:window-x="0"
+     inkscape:window-width="636"
+     inkscape:window-height="1396"
+     inkscape:window-x="1280"
      inkscape:window-y="20"
      inkscape:window-maximized="0" />
   <metadata
@@ -184,7 +184,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -193,8 +193,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(808.09549,-292.46752)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        inkscape:label="Layer 2"
@@ -218,7 +217,7 @@
              height="148.57143"
              width="1465.7142"
              id="rect5078" /></flowRegion><flowPara
-           id="flowPara5080"></flowPara></flowRoot>      <flowRoot
+           id="flowPara5080" /></flowRoot>      <flowRoot
          transform="matrix(0.28222221,0,0,0.28222221,10.4077,5.5116388)"
          style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot5082"
@@ -298,7 +297,7 @@
        style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="_415274208"
        class="fil0"
-       points="407.161,37.8527 407.073,37.8527 406.985,37.8527 406.958,37.6719 406.931,37.4911 407.002,37.3794 407.073,37.2677 407.144,37.3794 407.215,37.4911 407.188,37.6719 " />
+       points="406.985,37.8527 406.958,37.6719 406.931,37.4911 407.002,37.3794 407.073,37.2677 407.144,37.3794 407.215,37.4911 407.188,37.6719 407.161,37.8527 407.073,37.8527 " />
     <g
        transform="matrix(3.5433073,0,0,3.5433073,-842.97315,367.01317)"
        id="_225423192"
@@ -389,8 +388,7 @@
      id="layer5"
      inkscape:label="text"
      style="display:inline"
-     transform="translate(1.6421776e-5,92.646507)"
-     sodipodi:insensitive="true">
+     transform="translate(1.6421776e-5,92.646507)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot5103"
@@ -401,7 +399,7 @@
            height="132.85715"
            x="15.714286"
            y="264.49637" /></flowRegion><flowPara
-         id="flowPara5109"></flowPara></flowRoot>    <flowRoot
+         id="flowPara5109" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5111"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -419,7 +417,6 @@
      id="layer6"
      inkscape:label="network"
      style="display:inline"
-     sodipodi:insensitive="true"
      transform="translate(1.6421776e-5,92.646507)">
     <circle
        style="fill:#dc0067;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -547,8 +544,7 @@
      id="layer7"
      inkscape:label="logo"
      style="display:inline"
-     transform="translate(1.6421776e-5,92.646507)"
-     sodipodi:insensitive="true">
+     transform="translate(1.6421776e-5,92.646507)">
     <g
        inkscape:groupmode="layer"
        id="layer9"
