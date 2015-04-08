@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="174.38139mm"
-   height="136.48488mm"
-   viewBox="0 0 617.88684 483.60786"
+   width="118.9507mm"
+   height="85.223305mm"
+   viewBox="0 0 421.47886 301.97235"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -162,19 +162,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="694.97636"
-     inkscape:cy="224.52484"
+     inkscape:cx="596.77233"
+     inkscape:cy="101.22955"
      inkscape:document-units="px"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer9"
      showgrid="false"
-     fit-margin-top="0"
+     fit-margin-top="-0.9"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1600"
-     inkscape:window-height="900"
+     inkscape:window-width="1596"
+     inkscape:window-height="857"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="20"
      inkscape:window-maximized="0"
      showguides="false" />
   <metadata
@@ -191,51 +191,10 @@
   </metadata>
   <g
      inkscape:groupmode="layer"
-     id="layer6"
-     inkscape:label="background">
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect5505"
-       width="620"
-       height="488.57141"
-       x="0"
-       y="-0.67786217" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer5"
-     inkscape:label="text"
-     style="display:inline"
-     transform="translate(-419.64461,74.417345)">
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot5103"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-         id="flowRegion5105"><rect
-           id="rect5107"
-           width="1421.4286"
-           height="132.85715"
-           x="15.714286"
-           y="264.49637" /></flowRegion><flowPara
-         id="flowPara5109" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot5111"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.64196687,0,0,0.65647913,254.99954,106.51838)"><flowRegion
-         id="flowRegion5113"><rect
-           id="rect5115"
-           width="1437.1428"
-           height="144.28572"
-           x="18.571428"
-           y="270.21063"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;text-anchor:middle;fill:#ffffff" /></flowRegion><flowPara
-         id="flowPara5117">darmstadt.freifunk.net</flowPara></flowRoot>  </g>
-  <g
-     inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="logo"
      style="display:inline"
-     transform="translate(-419.64461,74.417345)">
+     transform="translate(-517.84864,16.077115)">
     <g
        inkscape:groupmode="layer"
        id="layer9"
